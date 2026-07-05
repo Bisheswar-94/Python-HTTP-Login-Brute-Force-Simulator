@@ -32,7 +32,7 @@ This project sends HTTP POST requests with different username and password combi
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Python-HTTP-Login-Brute-Force-Simulator.git
+git clone https://github.com/Bisheswar-94/Python-HTTP-Login-Brute-Force-Simulator.git
 ```
 
 Move into the project folder:
